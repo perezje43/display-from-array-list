@@ -6,4 +6,4 @@ The Movie.java class stores each movie with a title and category.
 
 The object of this assignment is to use the MovieDB class provided to get the ArrayList objects and Display in console.
 
-This assignment was done in my ITC 115: Object Oriented Programming class.
+This assignment was done in my ITC 115: Object Oriented Programming class. 
